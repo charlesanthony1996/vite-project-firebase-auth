@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@google-cloud/firestore": "^6.4.1",
+    "@react-native-firebase/app": "^16.4.2",
+    "@react-native-firebase/firestore": "^16.4.2",
     "firebase": "^9.13.0",
     "firebase-admin": "^11.2.0",
     "typescript": "^4.8.4",
